@@ -1,1 +1,3 @@
-# PSG-Any-1.13-1.17
+# Perfect Seed Glitchless
+README.md is a work in progress.
+Download in the Releases section.
